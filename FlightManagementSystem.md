@@ -1,4 +1,4 @@
-# FlightManagementSystem
+# Flight Management System
 
 * Hava yolu şirketleri uçuşları gerçekleştirir. Her hava yolunun bir kimliği vardır.
 * Hava yolu şirketi, farklı tipteki uçaklara sahiptir.
